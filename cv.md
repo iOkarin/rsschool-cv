@@ -50,6 +50,7 @@ return a * b
 **HTML Academy:** [Herald of Rivgaard](https://htmlacademy.ru/profile/id2191793)
 
 **Task progress:** 344/1513
+[![HTML-Academy](https://i.postimg.cc/QChsXd2M/HTML-Academy.jpg)](https://postimg.cc/njRN2pc8)
 
 ## Languages
 
